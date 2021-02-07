@@ -4,18 +4,18 @@ package bankingsystemtwo;
 public class bank {
     
 	public void Start_banking(){
-		bkash fariabkash = new bkash("faria", "01778314306",12000 ,"1234");
+		bkash fariabkash = new bkash("faria", "01708914356",12000 ,"1234");
 		fariabkash.information();
-                bkash maymunabkash = new bkash("maymuna", "01778314366",14000);
+                bkash maymunabkash = new bkash("maymuna", "01783578366",14000);
 		maymunabkash.information();
                 
                 
-		nagad farianagad = new nagad("faria", "01778314306",12000 ,"1234");
+		nagad farianagad = new nagad("faria", "01708914356",12000 ,"1234");
 		farianagad.information();
 
                 
                 
-		rocket fariarocket = new rocket("faria", "01778314306",12000 ,"1234");
+		rocket fariarocket = new rocket("faria", "017708914356",12000 ,"1234");
 		fariarocket.information();
 
 		
